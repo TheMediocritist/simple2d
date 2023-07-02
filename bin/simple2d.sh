@@ -27,7 +27,7 @@ SDL_MIN_VERSION='2.0.4'
 # SDL download paths
 libsdl_url="https://www.libsdl.org"
 
-sdl_fname="SDL2-2.0.10"
+sdl_fname="SDL2-2.0.20"
 sdl_url="${libsdl_url}/release/${sdl_fname}.tar.gz"
 
 image_fname="SDL2_image-2.0.5"
